@@ -1,4 +1,4 @@
-package com.ipaye.springsecurity;
+package com.ipaye.springsecurity.Controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
